@@ -13,6 +13,8 @@ Download and extract the needed model files.
 
 Down load model weight file from 
 http://download.tensorflow.org/models/object_detection/mask_rcnn_inception_v2_coco_2018_01_28.tar.gz
+
+
 **Usage Examples :**
 
 **Python**
